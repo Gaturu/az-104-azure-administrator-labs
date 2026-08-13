@@ -1,0 +1,47 @@
+# Azure / local configuration
+.azure/
+.azureProfile.json
+*.publishsettings
+
+# Secrets and credentials
+*.pem
+*.pfx
+*.key
+*.cer
+*.crt
+*.secret
+.env
+.env.*
+secrets/
+credentials/
+
+# Terraform / state if used later
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+!*.tfvars.example
+
+# Local editors / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# PowerShell
+*.ps1xml
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Azure CLI cache
+.azure/
