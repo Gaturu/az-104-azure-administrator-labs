@@ -256,7 +256,7 @@ Identity administration and Azure resource authorization are related but differe
 
 # 🧠 Muscle Memory Checklist
 
-- [ ] I can explain the purpose of Microsoft Entra ID.
+- [X] I can explain the purpose of Microsoft Entra ID.
 - [ ] I can navigate to Users.
 - [ ] I can create a user.
 - [ ] I can review user properties.
