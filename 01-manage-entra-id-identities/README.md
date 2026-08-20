@@ -36,7 +36,7 @@ Microsoft Entra ID provides cloud identity and access capabilities. Users and gr
 
 ## 🛠️ Prerequisites
 
-- [*] Azure subscription
+- [X] Azure subscription
 - [x] Permission to administer Microsoft Entra ID users/groups
 - [x] Browser access to Azure portal
 - [x] An email address for the external-user invitation
@@ -107,12 +107,12 @@ Practice the workflow for inviting an external identity into the tenant.
 
 ## Practice checkpoints
 
-- [ ] Start an external-user invitation.
-- [ ] Enter the recipient email address.
-- [ ] Add the invitation message.
-- [ ] Review profile properties.
-- [ ] Send the invitation.
-- [ ] Confirm the guest/external account appears.
+- [X] Start an external-user invitation.
+- [X] Enter the recipient email address.
+- [X] Add the invitation message.
+- [X] Review profile properties.
+- [X] Send the invitation.
+- [X] Confirm the guest/external account appears.
 
 The current Microsoft lab asks the learner to provide an email address, display name and invitation message, then review basic properties before sending the invitation. citeturn2search3
 
@@ -135,13 +135,13 @@ Follow Microsoft's current Lab 01 Task 2.
 
 ### Practice checkpoints
 
-- [ ] Open Microsoft Entra ID → Groups.
-- [ ] Create a Security group.
-- [ ] Configure an assigned membership type.
-- [ ] Assign myself as owner.
-- [ ] Add appropriate members.
-- [ ] Verify membership.
-- [ ] Review group expiration and naming-policy concepts.
+- [X] Open Microsoft Entra ID → Groups.
+- [X] Create a Security group.
+- [X] Configure an assigned membership type.
+- [X] Assign myself as owner.
+- [X] Add appropriate members.
+- [X] Verify membership.
+- [X] Review group expiration and naming-policy concepts.
 
 The official lab explains that assigned/static membership is manually maintained, while dynamic membership can update based on user or device properties. Dynamic membership requires the appropriate Microsoft Entra licensing. citeturn2search3
 
@@ -257,17 +257,17 @@ Identity administration and Azure resource authorization are related but differe
 # 🧠 Muscle Memory Checklist
 
 - [X] I can explain the purpose of Microsoft Entra ID.
-- [ ] I can navigate to Users.
-- [ ] I can create a user.
-- [ ] I can review user properties.
-- [ ] I can invite an external user.
-- [ ] I can create a security group.
-- [ ] I can assign an owner.
-- [ ] I can add members.
-- [ ] I can explain assigned versus dynamic membership.
-- [ ] I can verify the resulting configuration.
-- [ ] I can troubleshoot a failed or incomplete identity workflow.
-- [ ] I can reproduce the core workflow without the lab instructions.
+- [X] I can navigate to Users.
+- [X] I can create a user.
+- [X] I can review user properties.
+- [X] I can invite an external user.
+- [X] I can create a security group.
+- [X] I can assign an owner.
+- [X] I can add members.
+- [X] I can explain assigned versus dynamic membership.
+- [X] I can verify the resulting configuration.
+- [X] I can troubleshoot a failed or incomplete identity workflow.
+- [X] I can reproduce the core workflow without the lab instructions.
 
 ---
 
