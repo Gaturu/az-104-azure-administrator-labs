@@ -11,7 +11,7 @@
 | Topic | Microsoft Entra ID identities and groups |
 | Estimated Time | 30 minutes |
 | Azure Services | Microsoft Entra ID |
-| Status | ⬜ Not Started |
+| Status | ⬜ Completed |
 | Last Practiced | |
 | Confidence | ⭐☆☆☆☆ |
 
@@ -36,10 +36,10 @@ Microsoft Entra ID provides cloud identity and access capabilities. Users and gr
 
 ## 🛠️ Prerequisites
 
-- [ ] Azure subscription
-- [ ] Permission to administer Microsoft Entra ID users/groups
-- [ ] Browser access to Azure portal
-- [ ] An email address for the external-user invitation
+- [*] Azure subscription
+- [x] Permission to administer Microsoft Entra ID users/groups
+- [x] Browser access to Azure portal
+- [x] An email address for the external-user invitation
 
 ## ⚠️ Official procedure boundary
 
@@ -63,12 +63,14 @@ Follow Microsoft's current Lab 01 Task 1.
 
 ### Practice checkpoints
 
-- [ ] Open Microsoft Entra ID.
-- [ ] Navigate to Users.
-- [ ] Create the lab user.
-- [ ] Review identity and profile properties.
-- [ ] Confirm the account exists.
-- [ ] Record the properties that matter to an administrator.
+- [x] Open Microsoft Entra ID.
+- [x] Navigate to Users.
+- [x] Create the lab user.
+- [x] Review identity and profile properties.
+- [x] Review identity and profile properties.
+- [x] Confirm the account exists.
+- [x] Record the properties that matter to an administrator.
+
 
 ### Lab reference values
 
@@ -78,11 +80,11 @@ The current Microsoft lab uses a user named `az104-user1`, with a job title of `
 
 ![Microsoft Entra ID overview](./images/01-entra-overview.png)
 
-![Create user](./images/02-create-user.png)
+![Create user](../Screenshots/02-create-user.png)
 
-![User properties](./images/03-user-properties.png)
+![User properties](../Screenshots/03-user-properties.png)
 
-> These image references are intentionally empty until I capture screenshots from my own Azure environment.
+> These image references are  capture screenshots from my own Azure environment.
 
 ### What I observed
 
@@ -116,9 +118,10 @@ The current Microsoft lab asks the learner to provide an email address, display 
 
 ## 📸 My Practice
 
-![External user](./images/04-external-user.png)
+![Invite External User](../Screenshots/05-Invite-an-external-user.png)
 
----
+![External User details](../Screenshots/06-External-user-Details.png)
+
 
 # Task 2 — Create groups and add members
 
@@ -144,11 +147,15 @@ The official lab explains that assigned/static membership is manually maintained
 
 ## 📸 My Practice
 
-![Create security group](./images/05-create-security-group.png)
+![Groups Overview](../Screenshots/07-Create-groups.png)
 
-![Group members](./images/06-group-members.png)
+![Create New Group Details](../Screenshots/08-Create-group-details.png)
 
+![Group Confirmation](../Screenshots/09-Group-Confirmation.png)
+
+![Group Members overview](../Screenshots/10-Members%20and%20Owners.png)
 ---
+
 
 # 🧪 Verification
 
