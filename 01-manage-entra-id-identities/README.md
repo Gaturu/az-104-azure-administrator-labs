@@ -12,7 +12,7 @@
 | Estimated Time | 30 minutes |
 | Azure Services | Microsoft Entra ID |
 | Status | ⬜ Completed |
-| Last Practiced | |
+| Last Practiced | 19 AUG 2026 |
 | Confidence | ⭐⭐⭐⭐⭐ |
 
 ## 🎯 Learning Objectives
@@ -86,18 +86,7 @@ The current Microsoft lab uses a user named `az104-user1`, with a job title of `
 
 > These image references are  capture screenshots from my own Azure environment.
 
-### What I observed
 
-- 
-- 
-- 
-
-### What I learned
-
-- 
-- 
-
----
 
 # Task 1b — Invite an external user
 
@@ -161,12 +150,12 @@ The official lab explains that assigned/static membership is manually maintained
 
 | Check | Expected result | Result |
 |---|---|---|
-| User exists | User appears in Users | |
-| User properties | Required properties are present | |
-| External user | Invitation/account appears | |
-| Group exists | Security group appears | |
-| Owner | My account is an owner | |
-| Members | Expected users are listed | |
+| User exists | User appears in Users |[X]|
+| User properties | Required properties are present |[X]|
+| External user | Invitation/account appears |[X]|
+| Group exists | Security group appears |[X]|
+| Owner | My account is an owner |[X]|
+| Members | Expected users are listed |[X]|
 
 ---
 
@@ -189,22 +178,7 @@ az ad group list --output table
 
 ---
 
-# 🐛 Troubleshooting
 
-| Problem | Cause | Solution | Lesson |
-|---|---|---|---|
-| | | | |
-
-### Investigation notes
-
-- 
-- 
-
-### Resolution
-
-- 
-
----
 
 # 🧠 AZ-104 Exam Notes
 
@@ -268,50 +242,6 @@ Identity administration and Azure resource authorization are related but differe
 - [X] I can verify the resulting configuration.
 - [X] I can troubleshoot a failed or incomplete identity workflow.
 - [X] I can reproduce the core workflow without the lab instructions.
-
----
-
-# 🔁 Repeat the Lab
-
-## First Attempt
-
-Date:
-
-Result:
-
-Confidence:
-
-## Second Attempt
-
-Date:
-
-Result:
-
-Confidence:
-
-## Exam Readiness
-
-⭐☆☆☆☆
-
----
-
-# 📝 Personal Notes
-
-## What surprised me
-
--
-
-## What I initially misunderstood
-
--
-
-## What I can now do from memory
-
--
-
-## Next repetition target
-
--
 
 ---
 
