@@ -150,11 +150,11 @@ The official lab explains that assigned/static membership is manually maintained
 
 | Check | Expected result | Result |
 |---|---|---|
-| User exists | User appears in Users | [X] |
-| User properties | Required properties are present |[X]|
-| External user | Invitation/account appears |[X]|
-| Group exists | Security group appears |[X]|
-| Owner | My account is an owner |[X]|
+| User exists | User appears in Users | Yes |
+| User properties | Required properties are present | Yes |
+| External user | Invitation/account appears | Yes |
+| Group exists | Security group appears | Yes |
+| Owner | My account is an owner | Yes |
 | Members | Expected users are listed |[X]|
 
 ---
