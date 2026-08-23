@@ -155,7 +155,7 @@ The official lab explains that assigned/static membership is manually maintained
 | External user | Invitation/account appears | Yes |
 | Group exists | Security group appears | Yes |
 | Owner | My account is an owner | Yes |
-| Members | Expected users are listed |[X]|
+| Members | Expected users are listed | Yes |
 
 ---
 
