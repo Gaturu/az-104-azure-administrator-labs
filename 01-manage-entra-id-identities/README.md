@@ -13,7 +13,7 @@
 | Azure Services | Microsoft Entra ID |
 | Status | ⬜ Completed |
 | Last Practiced | |
-| Confidence | ⭐☆☆☆☆ |
+| Confidence | ⭐⭐⭐⭐⭐ |
 
 ## 🎯 Learning Objectives
 
